@@ -13,7 +13,7 @@
 
 <div class="row mt-2">
   <div class="col" >
-    <h1 class="text-center">MTG counter</h1>
+    <h1 class="text-center">MTG Counter</h1>
 
   </div>
 </div>
